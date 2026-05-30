@@ -61,7 +61,7 @@ The security architecture employs a **defense-in-depth, Zero Trust** approach or
 - Control selection driven by threat likelihood and mission impact, not compliance alone
 - Scalable architecture adaptable to evolving adversary TTPs
 
-![Security Architecture Overview](./network-architecture.png)
+![Security Architecture Overview](./images/network-architecture.png)
 
 The architecture is organized across five security domains, each with distinct threat vectors and corresponding controls:
 
@@ -81,7 +81,7 @@ Internet → [Firewall / IDS/IPS] → DMZ → [Encrypted VPN] → Internal Netwo
 | LAN → WAN | Next-gen firewall, IDS/IPS, content inspection | C2 communication, data exfiltration |
 | Remote → Internal | DoD-approved VPN, endpoint posture checks, CAC/PIV | Unauthorized remote access, lateral movement |
 
-![Trust Boundaries Diagram](./trust-boundaries.png)
+![Trust Boundaries Diagram](./images/trust-boundaries.png)
 
 ---
 
@@ -89,7 +89,7 @@ Internet → [Firewall / IDS/IPS] → DMZ → [Encrypted VPN] → Internal Netwo
 
 All controls in this architecture are implemented within the DoD RMF lifecycle, ensuring continuous authorization and ongoing risk assessment rather than point-in-time compliance validation.
 
-![RMF Lifecycle](./rmf-lifecycle.png)
+![RMF Lifecycle](./images/rmf-lifecycle.png)
 
 | RMF Step | Action | CTI Relevance |
 |---|---|---|
