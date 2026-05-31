@@ -274,12 +274,12 @@ Defense contractors and organizations handling sensitive government data represe
 ### Python Header Analysis Script
 A custom Python script was developed to automate email header inspection, extracting SPF/DKIM/DMARC results, sender/return-path domain mismatches, and public IPs from the received chain.
 
-→ Full script: [`header_analysis_script.py`](../../python-security-tools/header_analysis_script.py)
+→ Full script: [`header_analysis_script.py`](../../python-security-tools/header-analysis-script.py)
 
 ### Python Phishing Detection & URL Risk Analysis Tool
-A custom Python tool was developed to analyze URLs for phishing indicators including suspicious keyword patterns, domain impersonation, URL structure anomalies, HTTP vs HTTPS usage, and domain registration age via WHOIS lookup.
+A custom Python tool was developed to analyze URLs for phishing indicators, including suspicious keyword patterns, domain impersonation, URL structure anomalies, HTTP vs HTTPS usage, and domain registration age via WHOIS lookup.
 
-→ Full script: [`phishing_detection_tool.py`](../../python-security-tools/phishing_detection_tool.py)
+→ Full script: [`phishing_detection_tool.py`](../../python-security-tools/phishing-detection-tool.py)
 
 ### Additional Tools & Sources
 - Manual email header inspection
