@@ -2,6 +2,7 @@
 ## Play Ransomware: Targeting Patterns, TTPs, and Defensive Implications for Defense Contractors
 
 **Analyst:** Millie Altman
+
 **Classification:** UNCLASSIFIED // FOR PORTFOLIO USE  
 **Date:** June 2025  
 **TLP Designation:** TLP:CLEAR  
@@ -12,7 +13,7 @@
 
 ## Executive Summary
 
-Play ransomware (also known as Playcrypt) is assessed as one of the most active and operationally sophisticated ransomware groups currently targeting organizations in North America. Since June 2022, the group has compromised approximately 900 entities, with critical infrastructure and defense-adjacent organizations among its documented targets. Play operates as a closed Ransomware-as-a-Service (RaaS) group and employs a double extortion model — exfiltrating data prior to encryption and threatening public release on a Tor-hosted leak site to maximize payment pressure.
+Play ransomware (also known as Playcrypt) is assessed as one of the most active and operationally sophisticated ransomware groups currently targeting organizations in North America. Since June 2022, the group has compromised approximately 900 entities, with critical infrastructure and defense-adjacent organizations among its documented targets. Play operates as a closed Ransomware-as-a-Service (RaaS) group and employs a double extortion model, exfiltrating data prior to encryption and threatening public release on a Tor-hosted leak site to maximize payment pressure.
 
 This brief provides a comprehensive TTP analysis of Play ransomware, assesses the threat to defense contractor environments, and delivers prioritized defensive recommendations mapped to observed adversary behavior.
 
