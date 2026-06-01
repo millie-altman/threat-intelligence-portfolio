@@ -1,7 +1,13 @@
 # Phishing Campaign Analysis & Incident Intelligence Report
 ## Credential Harvesting | Microsoft Impersonation | SOC Alert Triage
 
+![Phishing](https://img.shields.io/badge/Threat-Phishing%20%2F%20Credential%20Harvesting-orange)
+![MITRE ATT&CK](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-red)
+![TLP:CLEAR](https://img.shields.io/badge/TLP-CLEAR-white)
+![Status](https://img.shields.io/badge/Status-Final-darkgreen)
+
 **Analyst:** Millie Altman
+
 **Classification:** UNCLASSIFIED // FOR PORTFOLIO USE  
 **Incident ID:** SOC-IR-2026-017  
 **Date of Incident:** March 12, 2026  
