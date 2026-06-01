@@ -2,6 +2,15 @@
 
 **Millie Altman** | Cybersecurity Analyst | CTI & Threat Research
 
+![CTI](https://img.shields.io/badge/Focus-Cyber%20Threat%20Intelligence-purple)
+![MITRE ATT&CK](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-red)
+![Diamond Model](https://img.shields.io/badge/Framework-Diamond%20Model-blue)
+![Kill Chain](https://img.shields.io/badge/Framework-Cyber%20Kill%20Chain-navy)
+![TLP:CLEAR](https://img.shields.io/badge/TLP-CLEAR-white)
+![Security+](https://img.shields.io/badge/Cert-CompTIA%20Security%2B-red)
+![OSINT](https://img.shields.io/badge/Skill-OSINT-blue)
+![Finished Intel](https://img.shields.io/badge/Skill-Finished%20Intelligence-darkgreen)
+
 ---
 
 ## About
