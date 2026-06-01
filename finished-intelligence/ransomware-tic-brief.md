@@ -1,6 +1,12 @@
 # Threat Intelligence Collection Brief
 ## Play Ransomware: Targeting Patterns, TTPs, and Defensive Implications for Defense Contractors
 
+![Ransomware](https://img.shields.io/badge/Threat-Play%20Ransomware-red)
+![MITRE ATT&CK](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-red)
+![DoD Contractor](https://img.shields.io/badge/Sector-Defense%20Contractor-navy)
+![TLP:CLEAR](https://img.shields.io/badge/TLP-CLEAR-white)
+![Status](https://img.shields.io/badge/Status-Final-darkgreen)
+
 **Analyst:** Millie Altman
 
 **Classification:** UNCLASSIFIED // FOR PORTFOLIO USE  
